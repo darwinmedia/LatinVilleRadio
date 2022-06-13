@@ -23,7 +23,7 @@
 #cssmenu a:link {
   font-weight: bold;
   font-size: 13px;
-  color: #e7e5e5;
+  color: #D3E700;
   text-decoration: none;
   display: block;
   padding: 8px 20px;
@@ -40,7 +40,7 @@
 #cssmenu .active a,
 #cssmenu li:hover > a {
   background: #99d846 url(overlay.png) repeat-x 0 -40px;
-  background: #666666 url(overlay.png) repeat-x 0 -40px;
+  background: #FFFFFF url(overlay.png) repeat-x 0 -40px;
   color: #444;
   border-top: solid 1px  #f8f8f8;
   -webkit-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.2);
@@ -57,7 +57,7 @@
   -moz-box-shadow: none;
 }
 #cssmenu ul ul a:hover {
-  background: #80c229 url(overlay.png) repeat-x 0 -100px !important;
+  background: #C2AC00 url(overlay.png) repeat-x 0 -100px !important;
   color: #fff !important;
   -webkit-border-radius: 5px;
   -moz-border-radius: 5px;
